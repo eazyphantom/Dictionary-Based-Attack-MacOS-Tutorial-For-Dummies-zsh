@@ -30,7 +30,7 @@ This project focuses on the usage of Homebrew and Bettercap for launching a dict
 
 - **Credits**: Special thanks to [eazyphantom](https://github.com/eazyphantom/) for providing the tutorial.
 
-- **Contact**: For privacy, the email previously provided has been removed and considered defunct.
+- **Contact**: For privacy reasons, the previously provided email address has been removed and is now considered defunct.
 
 ## Conclusion
 
