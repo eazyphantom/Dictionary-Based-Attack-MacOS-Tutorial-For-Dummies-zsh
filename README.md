@@ -28,7 +28,7 @@ This project focuses on the usage of Homebrew and Bettercap for launching a dict
 
 - **License**: This project is licensed under the [BSD-3-Clause License](LICENSE).
 
-- **Credits**: Special thanks to [EazyPhantom](https://github.com/EazyPhantom/) for providing the tutorial.
+- **Credits**: Special thanks to [EazyPhantom](https://github.com/eazyphantom/) for providing the tutorial.
 
 - **Contact**: For inquiries or feedback, please contact the author via the provided [email](mailto:eazyphantombooking@gmail.com).
 
