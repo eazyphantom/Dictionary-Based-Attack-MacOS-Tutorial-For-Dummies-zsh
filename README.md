@@ -1,7 +1,5 @@
 # Thank You from the Editors
 
-Dear members of the [r/HowToHack](https://www.reddit.com/r/HowToHack/) community on Reddit,
-
 On behalf of our dedicated team of editors, I want to extend a heartfelt thank you for choosing us as your companion on your journey into the world of hacking basics. It's truly an honor to be part of your learning experience, and we're thrilled to support you every step of the way.
 
 Starting off on any new endeavor can be both exciting and challenging, but we're here to provide you with the resources, guidance, and support you need to succeed. Whether you're diving into the fundamentals or exploring more advanced concepts, know that we're here to assist you in unlocking your potential and mastering the art of hacking.
